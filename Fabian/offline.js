@@ -1,0 +1,30 @@
+﻿{
+	"version": 1724939095,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hintergrund.png",
+		"images/jet-sheet0.png",
+		"images/jet-sheet1.png",
+		"images/wand-sheet0.png",
+		"images/kamara-sheet0.png",
+		"images/jet2-sheet0.png",
+		"images/flärs-sheet0.png",
+		"images/roketr-sheet0.png",
+		"images/roket2-sheet0.png",
+		"images/spanwerplayer-sheet0.png",
+		"images/spanwerenemy-sheet0.png",
+		"media/8bit-powerup5.m4a",
+		"media/8bit-powerup5.ogg",
+		"media/8bit-shoot5.m4a",
+		"media/8bit-shoot5.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
