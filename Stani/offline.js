@@ -1,0 +1,31 @@
+﻿{
+	"version": 1724941785,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/wall-sheet0.png",
+		"images/magic-sheet0.png",
+		"images/magic-sheet1.png",
+		"media/8bit-blip1.m4a",
+		"media/8bit-blip1.ogg",
+		"media/8bit-blip2.m4a",
+		"media/8bit-blip2.ogg",
+		"media/8bit-blip3.m4a",
+		"media/8bit-blip3.ogg",
+		"media/8bit-blip4.m4a",
+		"media/8bit-blip4.ogg",
+		"media/8bit-blip5.m4a",
+		"media/8bit-blip5.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
