@@ -1,0 +1,29 @@
+﻿{
+	"version": 1725528688,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/wüste-sheet0.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/lava-sheet0.png",
+		"images/tilemap.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"images/sprite10-sheet0.png",
+		"images/coin-sheet0.png",
+		"images/tiledbackground.png",
+		"images/sprite-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
