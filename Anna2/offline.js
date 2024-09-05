@@ -1,0 +1,31 @@
+﻿{
+	"version": 1725541610,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/decke.png",
+		"images/boden-sheet0.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/schwarzesloch-sheet0.png",
+		"images/zombie-sheet0.png",
+		"images/zombie-sheet1.png",
+		"images/kugel-sheet0.png",
+		"images/tiledbackground.png",
+		"images/2münze-sheet0.png",
+		"images/wizard-sheet0.png",
+		"images/wizardschuss-sheet0.png",
+		"images/wizardschuss-sheet1.png",
+		"images/zombielivebar-sheet0.png",
+		"images/wizardlivebar-sheet0.png",
+		"images/1münze-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
